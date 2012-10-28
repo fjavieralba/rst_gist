@@ -11,12 +11,12 @@ Usage
     .. gist:: <GIST_ID> <FILENAME>
 
 
-To know your ``GIST_ID`` and ``FILENAME`` simply go to your gist in githube and click on *"embed"* option. The HTML you see contains your ``GIST_ID`` and ``FILENAME``: ``<script src="https://gist.github.com/<GIST_ID>.js?file=<FILENAME>"></script>``
+To know your ``GIST_ID`` and ``FILENAME`` simply go to your gist in github and click on the *"embed"* option. The HTML you see contains your ``GIST_ID`` and ``FILENAME``: ``<script src="https://gist.github.com/<GIST_ID>.js?file=<FILENAME>"></script>``
 
 Install on Pelican
 ------------------
 
-If you want to easily embed gists snippets in your pelican blog, all you have to do is:
+If you want to easily embed gists in your pelican blog, all you have to do is:
 
  - Download the gistdirective.py file
  - Download the pelican code
